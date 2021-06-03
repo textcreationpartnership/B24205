@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The history of the blind beggar of Bednal-Green This may be printed, R.P.</title>
+            <title>History of the blind beggar of Bethnal Green.</title>
+         </titleStmt>
+         <extent>Approx. 29KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24205</idno><idno type="EEBO-CITATION">99829170</idno>
+  <idno type="VID">207102</idno>
+  <idno type="EEBO-PROQUEST">2264216447</idno>
+  
+            <idno type="STC">Wing H2146</idno>
+            <idno type="PROQUEST">99829170</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99829170e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24205)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207102)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1989:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The history of the blind beggar of Bednal-Green This may be printed, R.P.</title>
+                  <title>History of the blind beggar of Bethnal Green.</title>
+               </titleStmt>
+               <extent>[24] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Charles Dennisson, at the Stationers-Arms, within Aldgate,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title page woodcut.</note>
+                  <note>Place of publication supplied by cataloguer.</note>
+                  <note>Running title reads: The history of the blind beggar.</note>
+                  <note>Signatures: A B⁴.</note>
+                  <note>Reproduction of the original in the Magdalene College Library, Cambridge.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="illustration">
+            <pb facs="tcp:207102:1"/>
+            <p>
+               <figure>
+                  <figDesc>printer's device for John Back</figDesc>
+                  <p>J B</p>
+               </figure>
+            </p>
+            <p>
+               <hi>John Back,</hi> at the <hi>Black-Boy,</hi> on <hi>London-B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>idge,</hi> Furnisheth any Gentlemen or Chap-M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n with all sorts of <hi>BOOKS, BALLADS</hi> and all other Stationary-Wares, at Rea<g ref="char:EOLhyphen"/>sonable Rates.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:207102:1"/>
+            <p>The HISTORY of the <hi>BLIND BEGGAR</hi> Of BEDNAL-GREEN.</p>
+            <p>
+               <figure>
+                  <figDesc>woodcut panel of man with walking stick and dog</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>woodcut panel of two seated men and a woman</figDesc>
+               </figure>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>This may be Printed,</hi> R. P.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Printed for <hi>Charles Dennisson,</hi> at the <hi>Stationers-Arms,</hi> within <hi>Aldgate,</hi> 1686.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:207102:2"/>
+            <pb facs="tcp:207102:2"/>
+            <head>The HISTORY of the <hi>Blind Beggar</hi> of <hi>Bednal-Green,</hi> &amp;c.</head>
+            <div n="1" type="chapter">
+               <head>CHAP. I.</head>
+               <argument>
+                  <p>How <hi>Monford</hi> the Beggar of <hi>Bednal-Green</hi> went, accompanied with his Wife, to the Wars of <hi>France,</hi> and by what means he came to loose his Sight, and save his Life, and of his Return to <hi>England,</hi> &amp;c.</p>
+               </argument>
+               <p>IN Former Days when the Rose of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> Eclipsed the Lillies of <hi>France,</hi> and true <hi>English</hi> Vallour made that Nation stoop; amongst other Brave Gallants that went over to try their Fortune, <hi>Mon<g ref="char:EOLhyphen"/>ford</hi> was one, a Person well Descended, who being naturally inclin'd to war, and greedy of Fame, neither the entreaty of Friends nor the Marriage he had Contracted with a Kind and beautiful woman, could alter his purpose, but taking his Wife <hi>Margaret</hi> with him, who by no means would be induced to stay behind, he with many hundreds more crossed the Seas, and with the help of a prosperous wind arriving at <hi>Callice,</hi> Marched to the Royal Standard,
+<pb facs="tcp:207102:3"/> accompanied with his Loving Wife, who in Man-like attire became his inseparable Com<g ref="char:EOLhyphen"/>panion in Danger and Hazzard, and was the cause of saving his Life; for many Skirmish<g ref="char:EOLhyphen"/>es happening between the <hi>English</hi> and <hi>French,</hi> wherein Young <hi>Monford</hi> behaved himself with wondrous Courage, and in one, following too hotly the persuit, was, with divers others, in<g ref="char:EOLhyphen"/>trapped in an Ambush late in the Evening and though he manfully disputed it, making great Slaughter of the Enemy, yet in spight of re<g ref="char:EOLhyphen"/>sistance, he was beaten from his Horse by the forcible stro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k of a Pole-Ax, given him on the Face, and left in the Field for Dead amongst the dead and Dying-Men, where he had un<g ref="char:EOLhyphen"/>doubtedly perished through loss of Blood and the anguish of his Wound, had not his Tender-hearted Love, upon her hearing what had hap<g ref="char:EOLhyphen"/>pened, and his not returning, hasted to the field, where amongst the Slain, she by Moon-Light discovered him stripped and strugling for Life, and by the help of a Servant, brought him to a Shepherds Cottage, where she carefully dressed his Wounds, and administred such Cordials as brought him to himself, to her unspeakable joy, though this joy was somewhat abated when she found by the forcibleness of the Blow he had lost his Sight: But true Love work<g ref="char:EOLhyphen"/>ing in her heart the alteration or disfigurement
+<pb facs="tcp:207102:3"/> of his Countenance could not alter her affecti<g ref="char:EOLhyphen"/>on; but Comforting him in the best she could (though indeed) his natural Courage would not lightly admit of any dejection, she with part of the money she had, procur'd him a homely Suit of Apparel, and brought him (now unfit for Service) back to <hi>England,</hi> of whose En<g ref="char:EOLhyphen"/>tertainment and settlement at <hi>Bednal-Green</hi> in the County of <hi>Middlesex,</hi> and course of Life, you shall hear in the following Chapter.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>CHAP. II. </head>
+               <argument>
+                  <p>How <hi>Monfo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d</hi> arrived in <hi>England,</hi> and of the cold Entertainment he found amongst his Relations; how he came to <hi>Bednal-Green,</hi> and settling himself there, he continued to Begg for his Living, <hi>&amp;c.</hi>
+                  </p>
+               </argument>
+               <p>
+                  <hi>MOnford</hi> escaping a Storm at Sea, in his Return Landed with his Vertuous Wife on the Coast of <hi>Essex,</hi> where he had some considerable Relations, to whom in this neces<g ref="char:EOLhyphen"/>sity they applyed themselves for succour, but they either not desirous of his <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ompany, who after the death of his Parents had wasted much of his Patrimony, or fearing in that condition he might be chargeable to them, would not know him, and those that were convinced he was the same <hi>Monford</hi> that went over into <hi>France;</hi> gave him but cold Entertainment, in<g ref="char:EOLhyphen"/>somuch
+<pb facs="tcp:207102:4"/> that scorning to rely upon their Cha<g ref="char:EOLhyphen"/>rity, he told the kind Partner of his joy and sorrow, that he intended early in the morning to hast towards <hi>London,</hi> and that he would rather trust to Providence then to the ingrati<g ref="char:EOLhyphen"/>tude of those who in his prosperous days had Carressed him in a high manner; and so with<g ref="char:EOLhyphen"/>out taking Leave of any, Early in the morn<g ref="char:EOLhyphen"/>ing they departed; and in two days travelling (having spent the little Money they had reser<g ref="char:EOLhyphen"/>ved) necessity that has no Law, so far humb<g ref="char:EOLhyphen"/>led his hig<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Spirit, that he did not think it a<g ref="char:EOLhyphen"/>miss (especially in places where he was not known) to crave the Charity of the People as he passed through several good Towns, who understanding that he came by his misfortune in Fighting for the Honour of his Country, gave very Liberally, insomuch that he resol<g ref="char:EOLhyphen"/>ved to be of good chear, and thereupon con<g ref="char:EOLhyphen"/>sidering with himself that he was never brought up to Labour, or if he had, the Loss of his Sight had rendred him incapable of busi<g ref="char:EOLhyphen"/>ness; he reso<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ved to embrace what Providence had cast in his way: Which was, to live upon Charity, which he found to flow in upon him faster then he expected: Whereupon arriving at <hi>Bednal-Green,</hi> a place near <hi>London,</hi> he with the little Money he had got, hired a small Cottage for his Wife and himself, and daily
+<pb facs="tcp:207102:4"/> appearing publick to crave Alms, was from thence called the Beggar of <hi>Bednal-Green,</hi> and in a short time found it a thriveing Trade, insomuch that his Bed of Straw was changed into Down, and his Earthen Platters and other Vtensils into a better Sort. His Wife whilst he begged abroad not being idle at home, but Laboured at the Wheel and such other mat<g ref="char:EOLhyphen"/>ters as in her younger years she had learned.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>CHAP. III. </head>
+               <argument>
+                  <p>How <hi>Monford</hi> happened to meet with <hi>Snap</hi> an Old Experienced Beggar, who gave him an insight into the mistery of the can<g ref="char:EOLhyphen"/>ting Tribe, and how he invited him to their general Randesvouze, <hi>&amp;c.</hi>
+                  </p>
+               </argument>
+               <p>
+                  <hi>MOnford</hi> resolving in this kind of way to spend the remainder of his Days, that he might humble himself for his former offen<g ref="char:EOLhyphen"/>ces, having plyed it with good success in the place where he lived, by the Road side he was incountred one day by an Old Proficient at that Trade, who seeing him Diligent, be<g ref="char:EOLhyphen"/>came greatly desirous of his acquaintance, and to know what Gang he belonged to, and be<g ref="char:EOLhyphen"/>gan to Cant (as is usual amongst such sea<g ref="char:EOLhyphen"/>soned Sticks of that Profession) of which kind of Speech being known to none but themselves,
+<pb facs="tcp:207102:5"/>
+                  <hi>Monford</hi> being ignorant, could make him no direct answer; which the other, whose Name was <hi>Snap,</hi> perceiving, and thereby knowing him to be a young beginner▪ invited him to their Feasts or rende<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vouze in <hi>White-Chappel,</hi> whi<g ref="char:EOLhyphen"/>ther he having promised to come, and they be<g ref="char:EOLhyphen"/>tween them tip'd off four Black Pots of Hum they at that time parted.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>CHAP. IV. </head>
+               <argument>
+                  <p>How <hi>Monford</hi> went to the Beggars Feast, and of his Entertainment as also of the Present they made him, <hi>&amp;c.</hi>
+                  </p>
+               </argument>
+               <p>
+                  <hi>MOnford</hi> upon his coming home, declared to his Wife what a merry Companion he had met with, and what discourse they had, as likewise what he had promised, entreating her to get things in a readiness, that she might be at leasure to conduct him thither, where ap<g ref="char:EOLhyphen"/>peared, instead of a ragged Regiment of Lame, Blind, and Dumb, there was a rout of jovial Dancers, as gay as the Spring, and as merry as the Maids; which made them imagine they were either mistaken in the place, or had been imposed upon, and therefore were about to re<g ref="char:EOLhyphen"/>tire, had not <hi>Snap</hi> who knew <hi>Monford</hi> at the first Blush, started from his Chair where he sat Supervizor in all his Gallantry, and ta<g ref="char:EOLhyphen"/>king
+<pb facs="tcp:207102:5"/> him by the hand, let him know who he was, and afterward presented him to the whole Assembly, who received him as a Bro<g ref="char:EOLhyphen"/>ther or Member of their Society, each (by the order of <hi>Snap</hi>) paying him a Complement: and that for the future he might not want a Guide on all occasion, <hi>Snap</hi> in the name of the rest presented him with a Dog and a Bell train<g ref="char:EOLhyphen"/>ed to the Business, and had before been the Companion of an Eyeless Beggar deceased; and so having Feasted him and his Spouse in a Spl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ndid manner, they dismissed him, upon his promise that he would not be wanting at that yearly meeting; and being dismissed, he trudged home with his tractable Guide, which ever after proved serviceable to him.</p>
+            </div>
+            <div n="5" type="chapter">
+               <head>CHAP. V. </head>
+               <argument>
+                  <p>What success he had in his Begging Trade, and how a Daughter was born to him, and Christned by the name of <hi>Elizabeth.</hi>
+                  </p>
+               </argument>
+               <p>THe Blind Beggar by these Fortunate ad<g ref="char:EOLhyphen"/>ventures, being in a manner Master of his Trade, scorned to be confined to his former plying places, but by the help of his Dog trud<g ref="char:EOLhyphen"/>ged often to <hi>London;</hi> and having the perfect Tone, had for the most part the luck to return with his Pockets well Lined with Chink, and
+<pb facs="tcp:207102:6"/> by long practice, his way of begging became so pleasing to him, that he would often profess it the happyest part of his Life, and thus Tune his Pipes upon occasion.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="song">
+                           <head>His SONG.</head>
+                           <l>A Beggar lives a merry Life,</l>
+                           <l>he hath both wealth and ease,</l>
+                           <l>His days are free from care and strife,</l>
+                           <l>he does what e're he please</l>
+                           <l>Whilst others Labour sweat &amp; toil,</l>
+                           <l>his tongue doth get him pelf,</l>
+                           <l>He travels with his Dog and bell,</l>
+                           <l>and brings home store of Wealth.</l>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>He being by this time in a warm condition, to add further to his joy, and make him amends for his loss of Sight, his Loving and careful Wife fell in Labour, and brought forth the Loveliest Girl imaginable, whose birth made him quite forget his former misfortunes, and think himself the happiest man alive; an hun<g ref="char:EOLhyphen"/>dred times he kissed her, and dandled her in his arms, and at her Christening (which was man<g ref="char:EOLhyphen"/>naged with decency and prudence) caused her to be Named <hi>Elizabeth,</hi> from whence she was afterward deservedly called pretty <hi>Betty;</hi> for as she grew up she exceeded in Beauty to a de<g ref="char:EOLhyphen"/>gree of wonder, and courteous and seemly be<g ref="char:EOLhyphen"/>haviour
+<pb facs="tcp:207102:6"/> no less obliging, so that in her very Childhood some began to dote upon her admira<g ref="char:EOLhyphen"/>ble Perfections, and the better to qualifie her, gave her such Learning as was suitable to her Degree, which she improved to the height, so that her Beauty and Wit, her skill in Sing<g ref="char:EOLhyphen"/>ing, Dancing, and playing on Instruments of Musick, procured her the envy of the Vir<g ref="char:EOLhyphen"/>gins thereabout; who supposing themselves much superiour in Birth and Fortune, could ill endure to hear her praises every where spoken of, especially by the Young Men, whilst they stood neglected, insomuch that not knowing other<g ref="char:EOLhyphen"/>ways how to vent their Spleen, they would of<g ref="char:EOLhyphen"/>ten take an occasion openly to affront her in the Street, and at Merry-making, calling her Beggars Brat, (and uttering many other un<g ref="char:EOLhyphen"/>seemly Speeches) which she bore as long as she could endure with a becoming patience, and strove by gentle perswasions and reproofs to win them to a reconcilement, and often with tears in her lovely eyes, she would be apt to say, you should not methinks envy me at this rate, who never injured you, but strive to do you all the good Offices I can. What if my Parents are as you suppose them, mean, and I not so well Descended as your selves, though in that you may be mistaken; it might have been your Case had Heaven seen fit, and had it been so,
+<pb facs="tcp:207102:7"/> tell me which of you would not have been aflict<g ref="char:EOLhyphen"/>ed to have been used as you unkindly use me? These or the like Expressions being uttered in vain, and many ways being contrived by her Ill-willers to discourage those Suitors that sought her Love; she being by this time Fif<g ref="char:EOLhyphen"/>teen years of Age, wherefore to end the strife, and in hopes to be kindly used amongst Stran<g ref="char:EOLhyphen"/>gers, she resolved to make it her Request to her Parents, that she might take her Lot in search of her Fortune▪ The which she did with tears in her eyes, telling them the cause, but they long time opposed it; using many arguments to perswade her to the contrary: But finding the reasons she urged weighty, and tending to her advantage, they left it to her discretion.</p>
+            </div>
+            <div n="6" type="chapter">
+               <head>CHAP. VI. </head>
+               <argument>
+                  <p>How the Blind-Beggars Daughter Left her Fathers House to seek her Fortune, the reason why she did it, and the Entertain<g ref="char:EOLhyphen"/>ment she found.</p>
+               </argument>
+               <p>THe Day being come that Pretty <hi>Betty</hi> the Blind Beggars Daughter should depart, being furnished with Cloaths, Money, &amp; other necessaries, she fell upon her knees and craved her Parents Blessing, which b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing given, with many Prayers to Heaven for her Prosperity, they took a sad Farewell, and each betook them
+<pb facs="tcp:207102:7"/>
+                  <hi>viz. Monford</hi> to his Mumping Trade, his Wife to her Wheel, and the Daughter to seek her Fortune.</p>
+               <p>Pretty <hi>Betty</hi> having left her Fathers House or rather Smoak-Loft, went pensive along the Road towards <hi>Stratford,</hi> as one not resolved whether to go, but rather trusting Fortune and her good Angel to direct her; and so travelling all night by the Light of the Moon, by Sun-Rise she came to <hi>Rumford</hi> in <hi>Essex,</hi> where finding her self Faint, she betook her self to an Inn, and there sitting down, called for some<g ref="char:EOLhyphen"/>what wherewith to refresh her, looking pensive and sad, and often sighing at her hard fortune; which the Mistriss of the house percieving, as also her neat Guarb and modest Behaviour, be<g ref="char:EOLhyphen"/>gan to question her, from whence she was, or whether she was bound? who told her she was one that had been well educated by Indulgent Parents, but was now contrary to her former expectation, forced to seek her Fortune; and that she was Born near <hi>London:</hi> Vpon this the good woman being more and more taken with her Carriage, demanded if she would be content to stay with her till she could better pro<g ref="char:EOLhyphen"/>vide for her advantage, and that she would use her as a Daughter rather then a Servant; to this after a while having weighed and consider<g ref="char:EOLhyphen"/>ed it▪ she consented, and in the performance of
+<pb facs="tcp:207102:8"/> what ever she undertook, discharged her self so well that she gained the love and applause of all that observed her, insomuch that her Name for Beauty and Ingenuity began to spread, and a<g ref="char:EOLhyphen"/>bundance of Young men resorted to the House, which created a great Trade, on purpose to see her, who generally took a likeing, for Nature had made her so Lovely and Charming that she could not but be admired, insomuch that many of them as they found opportunity began to buz Love-Stories in her Ears, to which she gave but little heed, till four Suitors of greater worth beat off these little Assailants, and layed a closer Siege, as the following Chapter will appear.</p>
+            </div>
+            <div n="7" type="chapter">
+               <head>CHAP. VII. </head>
+               <argument>
+                  <p>How Pritty <hi>Betty</hi> the Blind Beggers Daugh<g ref="char:EOLhyphen"/>ter Living in an Inn at <hi>Rumford,</hi> was cour<g ref="char:EOLhyphen"/>ted by divers persons of Good Birth and Fortune, &amp;c.</p>
+               </argument>
+               <p>IT being by this time secretly whispered that pretty <hi>Betty</hi> must be more then she seemed as to her Parentage, it made her Reputation grow higher, insomuch that the Inn-Keepers Son, a <hi>London</hi> Merchant, a Gentleman of a Good Estate, and a Rich Knight, Courted her Favour; against whose importunities she ur<g ref="char:EOLhyphen"/>ged the meanness of her Birth, and inequality
+<pb facs="tcp:207102:8"/> of Fortune; intreating them if they were in <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>est as she could not otherways imagine, to spare the Blushes of an Innocent Maid, or if in earnest, to consider how much whoever of them had her, would impair himself by so une<g ref="char:EOLhyphen"/>qual a Match, and place his affection else where, least he not meeting in her his expectation, his love after Marriage should decay and turn to Reproach, which she said would break her poor Heart. This modest objection possessed them with further thoughts of her concealing the worth of her Birth and Parentage, and gave more Fuel to their passion; so easie is man to believe the thing he would have, insomuch that they began to renew their protestations of Love <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ndintire affection, offering her Rings, gloves <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd Iewels, but she would not accept them, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>east the taking the Gift without the Man might be prejudicial to her Fame; for all of <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>hem she well knew she could not have, or whe<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>her any of them, when they came to know <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>hat her Father was a Beggar would have her, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>he could not well believe, though they severally <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>romised to Love her as dear as Life, and maintain her in the hight of Gallantry; whose <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ddresses her Master and Mistris suffered for <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>he sake of their Profit; yet she growing con<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>cious of the injury she might do them by hin<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ring their Fortunes, made a Resolution to
+<pb facs="tcp:207102:9"/> discover her Parents, and that way try the sincerity of their affections, and accordingly did it.</p>
+            </div>
+            <div n="8" type="chapter">
+               <head>CHAP. VIII. </head>
+               <argument>
+                  <p>How pretty <hi>Betty</hi> being Wooed by her Masters Son, a Merchant, a Gentleman, and a Knight, upon her declaring her Pa<g ref="char:EOLhyphen"/>rentage, was Slighted by all but the Kt. and of the agreement she made.</p>
+               </argument>
+               <p>OVr Beautiful Virgin being hardly pressed for Love and enjoyment, found her self oblieged to take a course that might rid her of her Lovers, or allot one of them to her share; wherefore she told them she was not really at her own disposal her Parents being alive, there<g ref="char:EOLhyphen"/>fore if they Loved her as they said, and seeing but one could enjoy her, she was contented her Father should choose for her, of whose choice she would approve.</p>
+               <p>This set them in a manner at Daggers-Drawing who should get thither first, but whither to go they knew not: Therefore desi<g ref="char:EOLhyphen"/>red to be informed, every ones heart being fil<g ref="char:EOLhyphen"/>led with joy, not doubting to carry the prize; when thus she began.</p>
+               <p>
+                  <hi>My Parents Worthy Sirs, Live on <hi>Bednal-Green,</hi> my Father is the Beggar that is lead with a Dog and a Bell, Living upon the cha<g ref="char:EOLhyphen"/>rity
+<pb facs="tcp:207102:9"/> of good people; and my Mother a poor Woman that Spins for bread, yet these are my Parents, therefore I will not be induced by any means, to Marry without their Con<g ref="char:EOLhyphen"/>sent.</hi>
+               </p>
+               <p>This struck our Gallants for a while as mute as a Mouse in a Cheese, after which they made some difficulty to believe it, saying, it could not be, that such home-spun Creatures could be the Parents of so Beautiful a Maid; but she insisting on it, and giving them an ac<g ref="char:EOLhyphen"/>count of the Leaving them, and the reason, they began to scratch their Noddles, and stamp on the ground, drawing in their Horns faster then they had put them out, the Merchant, the Gentleman, and the Inn-Keepers Son, swear<g ref="char:EOLhyphen"/>ing if so, it was no Wife for them, for they would not be Nosed with one of a Beggars de<g ref="char:EOLhyphen"/>gree, and so they troopt off. But the Young Knight who was inflamed with Love, and ha<g ref="char:EOLhyphen"/>ving a great Estate, stood not upon intrest so much as pleasing his Fancy; after he had pau<g ref="char:EOLhyphen"/>sed a while, took the Blushing Maid by the hand, and said, <hi>you see my dearest, how those that Courted you in hopes you were a great Fortune, are vanished now they find their mistake: Say, will you yield to one more constant, who truly loves you for your beau<g ref="char:EOLhyphen"/>ty and good Parts, and you shall be without
+<pb facs="tcp:207102:10"/> delay, sole Mistris of him, and all that is his.</hi>
+               </p>
+               <p>To which she answered with a Sigh, alas, Sir, I dare not expect so great a happiness, or if I durst, I would not dispose of my self even to you, who (though blushing) I must confess I ever esteemed above the rest, without consent of my Parents, for though they are poor, they are my Parents still.</p>
+               <p>This modesty kindled his passion more and more, wherefore after much discourse, and ma<g ref="char:EOLhyphen"/>ny vows of Constancy, it was agreed that he should be ready with a Horse and Servants the next Morning early, and that she would come to him, that they might Ride to <hi>Bednal-green</hi> to require the Old Man's consent; yet this was not carried so secretly, but Spies being abroad <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>covered it, not onely to the Knights Vncl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> who managed his Estate, to most of the Young-Men of <hi>Rumford,</hi> who <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e her admirers.</p>
+            </div>
+            <div n="9" type="chapter">
+               <head>CHAP. IX. </head>
+               <argument>
+                  <p>How pritty <hi>Betty</hi> Rode behind the Knight to her Fathers House, and what befell by the way, as also when she arrived there, how her Father dropt Angels with the Knights Uncle that opposed the Match.</p>
+               </argument>
+               <p>OVr Beautiful Virgin meeting her cour<g ref="char:EOLhyphen"/>teous Knight at the time and place ap<g ref="char:EOLhyphen"/>pointed,
+<pb facs="tcp:207102:10"/> relying upon his Fidelity, made no scruple to use his Servants help in setting her behind him; but scarcely were they out of the Town, but the Knights Vncle coming to the Inn and finding neither of them there, suspected what had been told him to be true, and there<g ref="char:EOLhyphen"/>upon he followed to prevent the March, as also did divers Young-men who were deeply in love with her, to rescue her from the Knight, whom they supposed had carried her away by force.</p>
+               <p>So that great was the hurry and confusion, and the Towns-Men taking the nearer way, got before him e're he arrived at <hi>Bednal-green,</hi> and fell upon him without giving <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>im leave to spe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k for himself, or suffering hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Mistriss to excuse it; so that there began a sh<gap reason="illegible" resp="#keyers" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onflict, till such ti<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>as divers persons that <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e tra<g ref="char:EOLhyphen"/>vell <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Road came in and parted them, where<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y they came to a right understanding; which made those that had mis<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sed him bee his Pardon, which he granted, and dismissing them, kept on his way, till coming to the Old Man's Door they allighted; which made h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m upon the hearing of Horses trample, (being a thing very unusual) start from the Fire, and put <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is head out of his Window, and not un<g ref="char:EOLhyphen"/>derstanding the meaning of it, e're the Knights Vnckle came puffing and blowing at a strange rate; <hi>Crying why how now Nephew, what's
+<pb facs="tcp:207102:11"/> this I hear of you, are you mad to disgrace your family by marrying a Beggars-Brat, for shame, for shame, consider better then to make your self a Laughing-stock to the World, by such an unseemly Match: Pray how came this about you Baggage you? But however, I say Nephew, leave her, and I will provide you a Fortune, Rich, and Suit<g ref="char:EOLhyphen"/>table to your Condition.</hi>
+               </p>
+               <p>To this the Young Knight would have re<g ref="char:EOLhyphen"/>plyed, but the Begger growing Chosterick to hear his Daughter so used, interrupted him.</p>
+               <p>I cannot says the Old man, see you at all, but Sir, (what ever you are) I hear you too much, and more then becomes a Civil Gentle<g ref="char:EOLhyphen"/>man; nor do I count my Girl so mean, to suffer her to be Railed on at my own Door; therefore pray Sir hold your pra<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing, or I shall feel for you, with my Staff: I have known the day, when a Taller Fellow then you, durst not have put me in a passion; If your Kins-man does not think my Child a fit Match for him, let her alone, and welcome: But I think in Beauty, and good Breeding she is not wanting. And as for Money, be it known to you, her Father is ready to drop Angels with you for his Girl, if you have any of your own; d'ye mark me there?</p>
+               <p>This smart speech, put the Gentlemen to
+<pb facs="tcp:207102:11"/> a Non-pluss for a while; but coming to mil<g ref="char:EOLhyphen"/>der terms, the dropping buisines was conclu<g ref="char:EOLhyphen"/>ded on.</p>
+               <p>And the Gentleman imediately sending his Servants, to fetch what Gold he had, whilst the Beggar from under a heap of Raggs, and Old-Shooes, pull'd out a Cats-kin or two stuffed with Gold, whereby it appeared his Trade had been very advantageous; and each party being ready, they rained a golden shower so plentifully, that the Gentleman's Stock failed him, and the Begger not hearing it Chink, fell into a Laughter, and said, how now Sir, is your Money done so soon? I thought at first you had more words then Mo<g ref="char:EOLhyphen"/>ney; pray for your Credits sake, try your friends; for I have three or four Cats-kins with Golden Puddings in their Bellys yet: Indeed, said the Gentleman, I am content to own you have out-done me; and think you have the <hi>Philosophers-Stone,</hi> or keep a Fami<g ref="char:EOLhyphen"/>liar, to bring it you from the Golden-Moun<g ref="char:EOLhyphen"/>tains; But seeing the World goes so well with you. I shall no further go about to per<g ref="char:EOLhyphen"/>swade my Nephew from being your Son-in-Law; but begg pardon for what I have done: O do you so, said the Begger; then things may be better perhaps then you expect; when turning to the Knight, gather up said he, the
+<pb facs="tcp:207102:12"/> loose Corns I have scattered, and here's a Cat-skin to make that up three Thousand Pounds, besides a hundred more to buy her a Gown. Take this as her present Portion, and as you behave your self, expect more here<g ref="char:EOLhyphen"/>after: Remember I give her you, and with her my Blessing; go to Church, and be Mar<g ref="char:EOLhyphen"/>ried, a Gods Name: Vpon which the Kt. and his fair Mistriss falling on their Knees, gave him twenty thanks, and departed, whilst those that had been Suitors, hearing what had happened, were ready to Hang themselves for madness.</p>
+            </div>
+            <div n="10" type="chapter">
+               <head>CHAP. X. </head>
+               <argument>
+                  <p>How pretty <hi>Betty</hi> was Married to the Kt. &amp; her true Pedigree discovreed, together, with the Festival and Joy that insued.</p>
+               </argument>
+               <p>THings being come to this pass, great preperations were made for the Wed<g ref="char:EOLhyphen"/>ding; to which resorted many worthy persona<g ref="char:EOLhyphen"/>ges, no cost being spared, either in ri<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h Ap<g ref="char:EOLhyphen"/>parel or sumptuous fare, whilst the lovely Bride was led to Church by her worthy Bridegroom, feasting the Eyes of the b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hol<g ref="char:EOLhyphen"/>ders with her Beau<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y; and when the sacred bands were ty'd, they return'd with the like Splendor to the place of Festival, Excel<g ref="char:EOLhyphen"/>lently becoming and gracing what they
+<pb facs="tcp:207102:12"/> wore, as if Nature had made her the most exact pattern of Beauty; being arrived and the Tables sp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ead, the Bride now of a beg<g ref="char:EOLhyphen"/>gers Daughter made a Lady took her place, out-shining other Beautys that were there as far as the Moon is out shone by the Sun: and now nothing but the old Beggar and his Wife wanting, when they soon came richly dressed in silk and Velvet Imbroidered with Gold, so that all things went on in Ioy and Merriment, and great was the sat<g ref="char:EOLhyphen"/>isfaction the company received in their re<g ref="char:EOLhyphen"/>past, but more in the Musik, Dancing, Mas<g ref="char:EOLhyphen"/>querading, and the like; while the old Man had prepared to celebrate the happy Nup<g ref="char:EOLhyphen"/>tials, and in the end, craving attention, he Sung this SONG,
+<q>
+                     <lg>
+                        <l>You Gallants all that here are come,</l>
+                        <l>to make this day more happy prove,</l>
+                        <l>Know, though i'm blind I am not Dumb,</l>
+                        <l>but wish you happiness and Love:</l>
+                        <l>The Bride, though her Birth seem but mean</l>
+                        <l>descended of a worthy Race;</l>
+                        <l>Her Ancestors they great have been,</l>
+                        <l>if you her Pedigree do Trace.</l>
+                     </lg>
+                     <lg>
+                        <l>Know, she is <hi>Monfords</hi> Daughter fair,</l>
+                        <l>who lost his sight i'th Wars of <hi>France;</hi>
+                        </l>
+                        <l>Who ever since in begging here</l>
+                        <l>did take his happy thriving chance:</l>
+                        <pb facs="tcp:207102:13"/>
+                        <l>Consider Bridegroom, then her Birth,</l>
+                        <l>whom some do think but mean and low</l>
+                        <l>As much of Honour can bring forth</l>
+                        <l>as you have power to show.</l>
+                     </lg>
+                  </q>
+               </p>
+               <p>The Name of <hi>Monford</hi> which had been held so famous for Vertue and Valour in those days, did not a little cause wonder in the hearers, who desiring him to explain him<g ref="char:EOLhyphen"/>selfe, he p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ainly told them his adventures in <hi>France</hi> and <hi>England,</hi> and how he took up the trade of Begging and the like, which c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>used a general joy, since all that had formerly known him by that name, supposed him to be dead; and the Bridegroom was pronoun<g ref="char:EOLhyphen"/>ced now more happy then ever. So his <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ove<g ref="char:EOLhyphen"/>ly Bride, whose birth and fortune equal<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed his in all degrees; and so old <hi>Monford</hi> pro<g ref="char:EOLhyphen"/>mising, for the credit of his Daughter, to leave of the Beging trade, and live upon what he had got. The day was concluded, to the Ioy and satisfaction of all Partys.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:207102:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
